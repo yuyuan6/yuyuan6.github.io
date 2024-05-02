@@ -25,11 +25,11 @@ excerpt: State of health (SOH) is a crucial indicator to evaluate the level of
   even on par with domain adaptation or fine-tuning methods that require
   additional training data on five widely recognized datasets collected from 65
   batteries.'
-date: 2024-4-01
+# date: 2024-4-01
 # venue: Journal 1
-paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
-  1</i>. 1(1).
+# paperurl: http://academicpages.github.io/files/paper1.pdf
+# citation: Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
+#  1</i>. 1(1).
 
 ---
 State of health (SOH) is a crucial indicator to evaluate the level of
