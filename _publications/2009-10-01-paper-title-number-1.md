@@ -1,7 +1,7 @@
 ---
 title: GPT4Battery':' Cross-battery State of Health Estimation via Physical-Guided Test-time Prompt Learning with LLM
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+# collection: publications
+# permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: State of health (SOH) is a crucial indicator to evaluate the level of
   degradation of  batteries that cannot be measured directly but requires
   estimation. Accurate SOH estimation enhances detection, control, and feedback
