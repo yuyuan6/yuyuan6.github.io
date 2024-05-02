@@ -10,7 +10,7 @@ redirect_from:
 
 👨‍🎓 I'm a first-year graduate student at Xiamen University. 
 
-🖊✏ I'm currently working on projects regarding my Master's Thesis in the field of large language models and time series data, including applications and explanations. 
+🖊 I'm currently working on projects regarding my Master's Thesis in the field of large language models and time series data, including applications and explanations. 
 
 💡 I'm also open to various topics about Machine Learning including but not limited to foundation models, multi-modal learning and XAI, related research opportunities worldwide would be most appreciated!
 
