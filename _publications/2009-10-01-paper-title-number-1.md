@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'State of health (SOH) is a crucial indicator to evaluate the level of degradation of batteries.'
+excerpt: 'State of health (SOH) is a crucial indicator to evaluate the level of degradation of  batteries that cannot be measured directly but requires estimation. Accurate SOH estimation enhances detection, control, and feedback for Li-ion batteries, allowing for safe and efficient energy management and guiding the development of new-generation batteries.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
