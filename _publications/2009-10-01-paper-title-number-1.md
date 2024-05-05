@@ -24,6 +24,7 @@ excerpt: State of health (SOH) is a crucial indicator to evaluate the level of
   additional training data on five widely recognized datasets collected from 65
   batteries.
 collection: portfolio
+permalink: publications
 date: 2024-4-17
 venue: 'Arxiv, Under Review'
 ---
