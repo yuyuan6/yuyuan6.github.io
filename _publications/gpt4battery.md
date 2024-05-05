@@ -27,7 +27,7 @@ excerpt: 'State of health (SOH) is a crucial indicator to evaluate the level of
   batteries.'
 date: 2024-4-18
 venue: 'Arxiv, Under Review'
-paperurl: 'http://academicpages.github.io/files/gpt4battery.pdf'
+paperurl:'https://github.com/yuyuan6/yuyuan6.github.io/blob/master/files/gpt4battery.pdf'
 citation: 'To be announced soon.'
 ---
 
