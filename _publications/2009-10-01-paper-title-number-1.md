@@ -23,7 +23,7 @@ excerpt: State of health (SOH) is a crucial indicator to evaluate the level of
   even on par with domain adaptation or fine-tuning methods that require
   additional training data on five widely recognized datasets collected from 65
   batteries.
-
+collection: portfolio
 ---
 State of health (SOH) is a crucial indicator to evaluate the level of
 degradation of batteries that cannot be measured directly but requires
