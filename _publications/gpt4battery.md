@@ -53,4 +53,4 @@ State of health (SOH) is a crucial indicator to evaluate the level of
   demonstrate that the proposed model achieves state-of-the-art accuracy that is
   even on par with domain adaptation or fine-tuning methods that require
   additional training data on five widely recognized datasets collected from 65
-  batteries. Download [here] (https://github.com/yuyuan6/yuyuan6.github.io/blob/master/files/gpt4battery.pdf)
+  batteries.
