@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "GPT4Battery: Cross-battery State of Health Estimation via Physical-Guided Test-time Prompt Learning with LLM"
 collection: publications
 permalink: /publication/gpt4battery
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
