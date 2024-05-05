@@ -17,7 +17,7 @@ excerpt: 'State of health (SOH) is a crucial indicator to evaluate the level of
   prototype representations to align data from different modalities, adapting
   the LLM to battery tasks. We also design a novel physical guided test-time
   prompt tuning (PGTPT) method to learn adaptive prompts on the fly with a
-  single test sample, enhancing the model's generalization ability and fitting
+  single test sample, enhancing the model generalization ability and fitting
   the real-world scenarios. PGTPT optimizes the prompt by guiding the LLM to
   generate a complete battery charging curve in accordance with the physics
   equations of the 1-RC ECM model of a LIB cell. The validation results
@@ -46,7 +46,7 @@ State of health (SOH) is a crucial indicator to evaluate the level of
   prototype representations to align data from different modalities, adapting
   the LLM to battery tasks. We also design a novel physical guided test-time
   prompt tuning (PGTPT) method to learn adaptive prompts on the fly with a
-  single test sample, enhancing the model's generalization ability and fitting
+  single test sample, enhancing the model generalization ability and fitting
   the real-world scenarios. PGTPT optimizes the prompt by guiding the LLM to
   generate a complete battery charging curve in accordance with the physics
   equations of the 1-RC ECM model of a LIB cell. The validation results
